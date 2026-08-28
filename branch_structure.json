@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/sdk-contract-addresses-from-env",
+    "main"
+  ],
+  "parent": {
+    "fix/sdk-contract-addresses-from-env": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "fix/sdk-contract-addresses-from-env"
+  ]
+}
